@@ -3,7 +3,7 @@ entries:
   helm-chart-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-03T11:57:51.197956429+05:30"
+    created: "2023-09-03T12:02:27.106551805+05:30"
     description: A Helm chart for Kubernetes
     digest: 9fa53796faf2f6a19fe7d7705efa14139a659381ebe3d6e68355bbce26ea23f5
     name: helm-chart-test
@@ -11,4 +11,15 @@ entries:
     urls:
     - https://biraderomkar.github.io/helm/helm-chart-test-0.1.0.tgz
     version: 0.1.0
-generated: "2023-09-03T11:57:51.197543369+05:30"
+  second:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-09-03T12:02:27.106824422+05:30"
+    description: A Helm chart for Kubernetes
+    digest: a3e8d42b40506e7d0ccf40547647f150ab1f840142361e86eaafd646e0e6eacf
+    name: second
+    type: application
+    urls:
+    - https://biraderomkar.github.io/helm/second-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-09-03T12:02:27.10617617+05:30"
